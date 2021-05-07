@@ -1,0 +1,81 @@
+*{
+    height:auto;
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    transition:-webkit-transform;
+}
+body{
+    font-family: Crimson Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.5rem;
+    line-height: 50px;
+    text-align: center;
+}
+.navbar-brand{
+    font-size:2rem;
+}
+.carousel-item{
+    height:650px;
+}
+.card-title .card-text{
+    color:white;
+    
+}
+.cards-title{
+    font-size:3rem;
+    font-family: 'Tangerine', cursive;
+}
+.cards-img-top{
+    height:400px;
+    width:50%;
+    margin:auto;
+    margin-top:5%;
+    border-radius:30px;
+}
+.cards{
+    background: url("asset/bg1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card-title {
+    font-size:3rem;
+    font-family: 'Tangerine', cursive;
+    color:black;
+}
+.card-text{
+    color:whitesmoke;
+}
+.card{
+    background-color:#91BCC4;
+    margin:15px;
+    width:600px;
+}
+.footer{
+    background-color: #C7D9E2;
+    border-top-right-radius:25px;
+    border-top-left-radius:25px;
+}
+.cardss {
+    font-size:2rem;
+    line-height:85px;
+    background-color:#C7D9E2;
+    font-style: normal;
+    font-weight: normal;
+}
+.cardss-header{
+    font-size:2.5rem;
+}
+.blockquote{
+    font-size:3rem;
+}
+.navbar{
+    background-color:rgba(171, 208, 225, 0.404);
+    border-bottom-right-radius:30px;
+    border-bottom-left-radius:30px;
+    height:60px;
+}
+.list-group{
+    border-radius: 30px;
+}
